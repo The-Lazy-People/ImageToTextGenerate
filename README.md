@@ -47,6 +47,8 @@ https://github.com/legendarygirl56/ImageToTextGenerate.git
 ## Contributing
 
 All contributions :boom: are welcomed :+1:.
+- <a href="https://github.com/The-Lazy-People/ImageToTextGenerate/pulls"> Make a Pull request </a>
+- <a href="https://github.com/The-Lazy-People/ImageToTextGenerate/issues"> Open Issue </a>
 
 ## Author
 
